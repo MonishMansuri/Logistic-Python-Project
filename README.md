@@ -1,5 +1,7 @@
 # Logistic-Python-Project
 
+- I used PANDAS and NUMPY Library for this project
+  
 Objective: Verified the accuracy of delivery charges imposed by multiple
 courier partners for an e-commerce company to reduce excessive monthly shipping costs.
 
